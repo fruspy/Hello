@@ -3,10 +3,9 @@
 
 <head> 
 <meta charset="utf-8"> 
-<title>Title</title> 
 </head> 
 <body> 
-<p>Some text</p><h1>(Gorbut rly pee door)</h1><br /> 
+<h1>Maslov Peedor</h1><br /> 
 <span>azazaza</span> 
 </body> 
 </html>
